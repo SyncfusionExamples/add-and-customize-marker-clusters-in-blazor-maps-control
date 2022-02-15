@@ -1,6 +1,6 @@
-# How to Customize Markers in the Blazor Maps Control
+# How to Customize Marker Clusters in the Blazor Maps Control
 
-A quick start Blazor project that shows how to add and customize markers in the Syncfusion Blazor Maps component using Blazor WebAssembly app. This project also includes a code snippet to enable marker cluster and customize it, how to add a template and multiple marker groups.
+A quick start Blazor project that shows how to add and customize marker clusters in the Syncfusion Blazor Maps component using Blazor WebAssembly app. This project also includes a code snippet to enable marker cluster and customize it, how to add a template and multiple marker groups.
 
 Examples: 
 
